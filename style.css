@@ -1,0 +1,138 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#guest_list
+{
+    padding: 10px;
+    width: 50%;
+}
+
+#row2
+{
+    padding: 10px;
+    width: 50%;
+}
+
+#heading
+{
+font-family: 'Italianno', cursive;
+font-size: 80px;
+text-decoration: underline;
+}
+
+#heading2
+{
+font-family: cursive;
+font-size: 27px;
+text-decoration: underline;
+}
+
+#row4
+{
+	
+    width: 30px;
+	text-align: left;
+}
+
+#row
+{
+    width: 100px;
+	text-align: right;
+}
+
+#row5
+{
+	text-align:left;
+	
+}
+
+#p5
+{
+	width: 480px;
+}
+
+html
+{
+	background-image:url(https://th.bing.com/th/id/R.77058e864d1895b2d4a4420f5760855e?rik=tvwZzmMOGbHLrg&riu=http%3a%2f%2fi.stack.imgur.com%2fRLQNm.jpg&ehk=XoE4Op8VqP0hNYRHUM1IYy5T6a5RRUdE01keblssbRA%3d&risl=&pid=ImgRaw&r=0);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#row11
+{
+	padding-right: 270px;
+	border-right: black;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#row12
+{
+	padding-right: 90px;
+	border-right: black;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#row16
+{
+	padding-right: 20px;
+}
+
+#p16
+{
+	width:500px;
+}
+
+#p17
+{
+	width:250px;
+}
+
+#p15
+{
+	width:250px;
+}
+
+#p1
+{
+	width:500px;
+}
+
+#row10
+{
+	padding-left: 580px;
+}
+
+#p2
+{
+	padding: 6px;
+	border: none;
+	margin-top: 8px;
+	margin-right: 16px;
+	font-size: 17px;
+}
+
+#search_button
+{
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
